@@ -1,0 +1,2 @@
+Local matrix of child x parent world matrix = child world matrix
+World matrix of child x inverse parent matrix = child local matrix
